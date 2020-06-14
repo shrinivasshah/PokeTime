@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e53373eb996de01a41c055e5d4c49e2",
+    "revision": "4a975e1ca8f6ac6e2c7f8820012bc4e0",
     "url": "/PokeTime/index.html"
   },
   {
-    "revision": "bfd949171455e62a3433",
+    "revision": "d5d097a5e39a337619f4",
     "url": "/PokeTime/static/css/main.6df0f788.chunk.css"
   },
   {
-    "revision": "2b64e4b4702face76ade",
-    "url": "/PokeTime/static/js/2.ea730946.chunk.js"
+    "revision": "26e6860b514ebf22825b",
+    "url": "/PokeTime/static/js/2.75626050.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/PokeTime/static/js/2.ea730946.chunk.js.LICENSE.txt"
+    "url": "/PokeTime/static/js/2.75626050.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bfd949171455e62a3433",
-    "url": "/PokeTime/static/js/main.cbd59e4e.chunk.js"
+    "revision": "d5d097a5e39a337619f4",
+    "url": "/PokeTime/static/js/main.59bd314f.chunk.js"
   },
   {
     "revision": "0e9be4222d880688d207",
